@@ -1,0 +1,57 @@
+# 🌸 Iris Flower Classification (OIBSIP Task 1)
+
+This project is a Machine Learning model that classifies iris flowers into three species based on their measurements.
+
+## 📌 Problem Statement
+Iris flower has three species:
+- Setosa
+- Versicolor
+- Virginica
+
+The goal is to train a machine learning model that can learn from the measurements of iris flowers and accurately classify them into their respective species.
+
+---
+
+## 🚀 Technologies Used
+- Python 🐍
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib (for visualization)
+
+---
+
+## 📊 Dataset
+The dataset contains measurements of iris flowers:
+- Sepal Length
+- Sepal Width
+- Petal Length
+- Petal Width
+
+You can use:
+- Built-in dataset from Scikit-learn  
+OR  
+- Download dataset manually
+
+---
+
+## ⚙️ Model Used
+- K-Nearest Neighbors (KNN)
+
+---
+
+## 📈 Steps Performed
+1. Loaded the dataset
+2. Split data into training and testing sets
+3. Trained the KNN model
+4. Predicted results on test data
+5. Evaluated model accuracy
+
+---
+
+## ✅ Output
+- Model Accuracy: ~90%+ (approx)
+
+---
+
+## 📂 Project Structure
